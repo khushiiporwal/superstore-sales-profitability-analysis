@@ -41,8 +41,26 @@ The final report contains four pages:
 * **Business Performance Overview** – Overall KPIs, sales and profit trends, and general business context.
 * **Executive Overview–The Anomalies** – Highlights unusual performance changes in 2015 and 2017, along with monthly margin patterns.
 * **Category, Subcategory & Discount Deep Dive** – Examines product-level performance and discount patterns.
-* **Profit Margin by Discount Band Tooltip** – Compares profitability across discount bands.
+* **Discount Band Tooltip** – Compares profitability across discount bands.
 
 ## Dashboard Preview
+### Page 1: Business Performance Overview
+![Business Performance Overview](https://github.com/khushiiporwal/superstore-sales-profitability-analysis/blob/main/Dashboard_page1.png)
 
+### Page 2: Executive Overview — The Anomalies
+![Executive Overview](https://github.com/khushiiporwal/superstore-sales-profitability-analysis/blob/main/Dashboard_page2.png)
 
+### Page 3: Category, Sub-Category & Discount Deep Dive
+![Category and Discount Deep Dive](https://github.com/khushiiporwal/superstore-sales-profitability-analysis/blob/main/Dashboard_page3.png)
+
+### Page 4: Discount Band Tooltip
+![Discount Band Tooltip](https://github.com/khushiiporwal/superstore-sales-profitability-analysis/blob/main/Dasboard_page4.png)
+
+---
+
+## 📁 Repository Files
+* `Superstore_raw.csv` — Original Kaggle Superstore dataset (9,994 order lines)
+* `Superstore_cleaned.csv` — Cleaned dataset using power query
+* `Superstore_analysis_queries.sql` — MySQL validation, window function, and basket sizing queries
+* `Superstore_report.pbit` — Power BI template file containing the data model, DAX measures, and 4-page report
+* `Dashboard_page1.png` – `Dasboard_page4.png` — High-resolution dashboard page previews
