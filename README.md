@@ -10,7 +10,7 @@ The end-to-end analytical pipeline was built using the following tools:
 * **Power Query** – Used as the ETL layer for data cleaning.
 * **Power BI Desktop** – Main visualization platform used to build the 3-page executive report.
 * **DAX (Data Analysis Expressions)** – Used for calculated measures ('Profit Margin %', ‘Discount tiers’), dynamic titles, and conditional formatting.
-* **Deliverables** – `.sql`scripts, `.xlsx`Power Query file, `.pbix`report, and `.png`dashboard previews.
+* **Deliverables** – `.sql`scripts, `.xlsx`Power Query file, `.pbix`report, `.png`dashboard previews and `.pdf`case study.
 
 ## Data Source & Validation
 * **Source:** Superstore Retail Sample Dataset - *Kaggle* (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) covering **2014–2017**.
