@@ -1,5 +1,5 @@
-# Where Does the Profit Go? A Discount Analysis of Superstore Sales (2014–2017)
-End-to-end discount and profitability analysis of Superstore retail sales (2014–2017) using MySQL, Power Query, and Power BI.
+# Where Does the Profit Go? Superstore Sales Analysis (2014–2017)
+End-to-end sales, profitability and discount analysis of Superstore retail sales (2014–2017) using MySQL, Power Query, and Power BI.
 
 ## Purpose & Overview 
 This project explores four years of retail transaction data to uncover the hidden relationship between discounting, product mix, and net profitability. By combining **SQL root-cause analysis** with a **interactive Power BI report**,this case study provides clear, data-backed discount guardrails to stop margin leakage without sacrificing top-line growth.
@@ -64,3 +64,4 @@ The final report contains four pages:
 * `Superstore_analysis_queries.sql` — MySQL validation, window function, and basket sizing queries
 * `Superstore_report.pbit` — Power BI template file containing the data model, DAX measures, and 4-page report
 * `Dashboard_page1.png` – `Dasboard_page4.png` — High-resolution dashboard page previews
+* `Superstore_sales_case.study.pdf` —  Full executive case study PDF
